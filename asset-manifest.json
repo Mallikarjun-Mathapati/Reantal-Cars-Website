@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Reantal-Cars-Website/static/css/main.f5fe6b38.css",
-    "main.js": "/Reantal-Cars-Website/static/js/main.eada7223.js",
+    "main.js": "/Reantal-Cars-Website/static/js/main.0cfed3b3.js",
     "static/js/787.01d167d2.chunk.js": "/Reantal-Cars-Website/static/js/787.01d167d2.chunk.js",
     "static/media/tesimonials mains bg.png": "/Reantal-Cars-Website/static/media/tesimonials mains bg.e15cddd1c84ad1a6fd38.png",
     "static/media/homepage big bg.png": "/Reantal-Cars-Website/static/media/homepage big bg.126f33af1fe671fe112b.png",
@@ -44,11 +44,11 @@
     "index.html": "/Reantal-Cars-Website/index.html",
     "static/media/manual.svg": "/Reantal-Cars-Website/static/media/manual.dcdd9ce70a1035a88bc3cba71a3a8d10.svg",
     "main.f5fe6b38.css.map": "/Reantal-Cars-Website/static/css/main.f5fe6b38.css.map",
-    "main.eada7223.js.map": "/Reantal-Cars-Website/static/js/main.eada7223.js.map",
+    "main.0cfed3b3.js.map": "/Reantal-Cars-Website/static/js/main.0cfed3b3.js.map",
     "787.01d167d2.chunk.js.map": "/Reantal-Cars-Website/static/js/787.01d167d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5fe6b38.css",
-    "static/js/main.eada7223.js"
+    "static/js/main.0cfed3b3.js"
   ]
 }
